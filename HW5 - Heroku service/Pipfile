@@ -1,0 +1,7 @@
+[packages]
+Flask = "*"
+numpy = "*"
+scikit-learn = "*"
+pandas = "*"
+xgboost = "*"
+geopy = "*"
